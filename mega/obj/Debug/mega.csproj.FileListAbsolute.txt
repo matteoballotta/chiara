@@ -1,0 +1,11 @@
+C:\Users\Utente\source\repos\mega\mega\bin\Debug\mega.exe.config
+C:\Users\Utente\source\repos\mega\mega\bin\Debug\mega.exe
+C:\Users\Utente\source\repos\mega\mega\bin\Debug\mega.pdb
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.Form1.resources
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.Properties.Resources.resources
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.exe
+C:\Users\Utente\source\repos\mega\mega\obj\Debug\mega.pdb
